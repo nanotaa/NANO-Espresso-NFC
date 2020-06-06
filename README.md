@@ -4,7 +4,10 @@ I present a preview of NANO Espresso NFC, the first coffee machine that accepts 
 Many thanks to James Coxon for websocket on yapraiwallet.space. 
 Visit: https://github.com/jamescoxon/Nano_ESP8266_Trigger/blob/master/nano_esp8266_trigger.ino
 
+For the preparation of the Arduino we followed this guide:
+https://medium.com/the-nano-center/nano-esp8266-trigger-build-guide-f17f7a6517b2
 
+For any questions: admin@nanotaa.com
 
 ***Disclaimer***
 
